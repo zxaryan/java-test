@@ -1,4 +1,4 @@
-package com.java.test;
+package com.java.dsa;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -15,5 +15,4 @@ public class Employee {
     String department;
     int salary;
     int age;
-
 }

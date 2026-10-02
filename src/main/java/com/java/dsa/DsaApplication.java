@@ -1,16 +1,13 @@
-package com.java.test;
+package com.java.dsa;
 
-import com.java.test.Employee;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.util.List;
-
 @SpringBootApplication
-public class TestApplication {
+public class DsaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestApplication.class, args);
+		SpringApplication.run(DsaApplication.class, args);
 	}
 
 

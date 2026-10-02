@@ -1,11 +1,10 @@
-package com.java.test;
+package com.java.dsa;
 
 import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
 
 import java.util.List;
 
-class TestApplicationTests {
+class StreamApiTest {
 
 	List<Employee> employees = List.of(
 			new Employee(1, "Aryan", "IT", 70000, 25),
